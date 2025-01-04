@@ -1,3 +1,4 @@
+
 # cloud_comoputing
 notas de la materia
 
@@ -12,5 +13,8 @@ ldkdks
  Todos los updates de la meteria
 
  de MÁS Contenido importante necesario
+
+
+OTro coso den unbe
 
  
