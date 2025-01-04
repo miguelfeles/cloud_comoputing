@@ -8,3 +8,6 @@ Hoas
 ldkdks
 
  jnk
+
+ Todos los updates de la meteria
+ 
